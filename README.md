@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapper100/vesting_case/master?filepath=notebooks%2Findex.ipynb)
 
-# VESTING Career Experience Morning Case
+# VESTING Career Experience Morning Case - test
 
 This repo contains the slides and notebooks used for the Morning Case at VESTING Career Experience 2019.
 
